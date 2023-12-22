@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EcomApiNet8.props" />
+</Project>
